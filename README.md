@@ -1,7 +1,6 @@
 # Prisma
 A new base theme for the scp wiki
-
-
+```
              ^
             /A\
            //I\\
@@ -18,3 +17,4 @@ A new base theme for the scp wiki
         '////I\\\\'
           '//I\\'
             'I'
+```
